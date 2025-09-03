@@ -7,7 +7,7 @@
 1. **Invite Gaga Bot**
 Click the link below to invite Gaga Bot to your Discord server. You will need to have `"Manage Server"` permissions to add the bot.
 
-[Invite Gaga Bot to Your Server]()
+[Invite Gaga Bot to Your Server](https://discord.com/oauth2/authorize?client_id=1412915320506810450)
 
 2. **Permissions**
 Gaga Bot requires the **following permissions** to function correctly:
