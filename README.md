@@ -16,6 +16,10 @@ Gaga Bot requires the **following permissions** to function correctly:
 
 - `Read Message History`
 
+- `Create Polls`
+
+-  `Embed Links`
+
 3. **Use Commands**
 Gaga Bot uses the prefix `g!` for all commands. Try your first command by typing:
 
